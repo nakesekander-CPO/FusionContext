@@ -2,6 +2,9 @@
 
 Shared, always-fresh context for every product team's Claude session.
 
+**Teams onboarding for the first time:** see [SETUP.md](./SETUP.md) for
+the full step-by-step guide.
+
 **Single source of truth.** Foundational context (mission, product
 overview, glossary, principles) lives in `CLAUDE.md` here. Consumer
 repositories pull this file at the start of each Claude session, so an
